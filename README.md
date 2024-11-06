@@ -12,7 +12,13 @@ A single-page Spotify-inspired user interface built using HTML and CSS. This pro
 
 - **HTML5**: For page structure.
 - **CSS3**: For styling and layout.
-  
+
+  ## Screenshots
+
+![Screenshot 1](./readme_images/img1.png)
+![Screenshot 2](./readme_images/img2.png)
+
+---
 ---
 
 This project is purely for visual design practice. It does not include any interactive or functional backend elements.
