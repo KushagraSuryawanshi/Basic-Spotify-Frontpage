@@ -15,9 +15,11 @@ A single-page Spotify-inspired user interface built using HTML and CSS. This pro
 
   ## Screenshots
 
+### Full Layout
 ![Screenshot 1](./readme_images/img1.png)
-![Screenshot 2](./readme_images/img2.png)
 
+### Music Player Bar
+![Screenshot 2](./readme_images/img2.png)
 ---
 ---
 
