@@ -245,6 +245,7 @@ a{
 .additional-info{
     display: flex;
     flex-wrap: wrap;
+    align-items: baseline;
 }
 .company{
     height: 12rem;
