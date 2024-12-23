@@ -22,3 +22,4 @@ A single-page Spotify-inspired user interface built using HTML and CSS. This pro
 ---
 
 This project is purely for visual design practice. It does not include any interactive or functional backend elements.
+
